@@ -2,7 +2,7 @@ package org.lasencinas.domain;
 
 public class LavadoraCargaSuperior extends Lavadora {
 
-    /* ---- MAIN BEHAVIOURS ---- */
+    /* ---- CONSTRUCTORS ---- */
     public LavadoraCargaSuperior() {
         this.tipoCarga = "superior";
     }
